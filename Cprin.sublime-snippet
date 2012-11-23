@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+/*************************************************************/ 
+/*      AUTOR: ${1:NOMBRE}                              */ 
+/*      CURSO: ${2:CURSO}                                 */ 
+/*     NOMBRE:  $TM_FILENAME                            */ 
+/*                                                           */ 
+/*  PROPÓSITO:  ${1:Que hace el programa}                         */ 
+/*                                                           */ 
+/*************************************************************/
+
+
+]]></content>
+<tabTrigger>cprin</tabTrigger>
+<scope>source.c++</scope>
+</snippet>
