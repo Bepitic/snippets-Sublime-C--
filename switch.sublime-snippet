@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+switch (${1:expression})
+{
+    case ${2:constant}:
+        ${3:statements}
+        break;
+            
+    default:
+        break;
+}
+
+]]></content>
+	 <tabTrigger>switch</tabTrigger>
+	 <scope>source.c++</scope>
+</snippet>
